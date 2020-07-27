@@ -1,5 +1,5 @@
 ---
-title: "Tema 1 - Ejercicio 2"
+title: "Tema 1 - Ejercicio 2" 
 author: "Curso Álgebra Lineal"
 output: pdf_document
 ---
